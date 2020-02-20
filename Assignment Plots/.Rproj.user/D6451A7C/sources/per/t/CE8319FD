@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579022604582.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3870538763",
+    "id" : "CE8319FD",
+    "lastKnownWriteTime" : 1579053160,
+    "last_content_update" : 1579053160760,
+    "path" : "~/Documents/Masters/UCL/Classes/Term 1/Quantitative Methods/Written Investigation/Code/Assignment Plots/Dead Mileage Histograms.R",
+    "project_path" : "Dead Mileage Histograms.R",
+    "properties" : {
+        "cursorPosition" : "39,43",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

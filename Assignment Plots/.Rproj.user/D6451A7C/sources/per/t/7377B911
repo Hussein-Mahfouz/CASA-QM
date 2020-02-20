@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578932540221.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "868058476",
+    "id" : "7377B911",
+    "lastKnownWriteTime" : 1579053159,
+    "last_content_update" : 1579053159219,
+    "path" : "~/Documents/Masters/UCL/Classes/Term 1/Quantitative Methods/Written Investigation/Code/Assignment Plots/Bar Plots.R",
+    "project_path" : "Bar Plots.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
